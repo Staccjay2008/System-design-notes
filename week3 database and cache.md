@@ -1,4 +1,9 @@
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
 #### 1×× Informational
 100 Continue
 101 Switching Protocols
