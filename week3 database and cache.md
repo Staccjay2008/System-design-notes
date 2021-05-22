@@ -1,9 +1,9 @@
 
-####1×× Informational
+#### 1×× Informational
 100 Continue
 101 Switching Protocols
 102 Processing
-####2×× Success
+#### 2×× Success
 200 OK
 201 Created
 202 Accepted
@@ -14,7 +14,7 @@
 207 Multi-Status
 208 Already Reported
 226 IM Used
-3×× Redirection
+#### 3×× Redirection
 300 Multiple Choices
 301 Moved Permanently
 302 Found
@@ -23,7 +23,7 @@
 305 Use Proxy
 307 Temporary Redirect
 308 Permanent Redirect
-####4×× Client Error
+#### 4×× Client Error
 400 Bad Request
 401 Unauthorized
 402 Payment Required
@@ -54,7 +54,7 @@
 444 Connection Closed Without Response
 451 Unavailable For Legal Reasons
 499 Client Closed Request
-####5×× Server Error
+#### 5×× Server Error
 500 Internal Server Error
 501 Not Implemented
 502 Bad Gateway
