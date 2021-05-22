@@ -1,7 +1,7 @@
 
 As Kanye West said:
 
-`<addr>` We're living the future so
+`<We're living the future so.`
 > the present is our past.
 
 #### 1×× Informational
