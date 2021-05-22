@@ -1,8 +1,8 @@
 #### 1×× Informational | 2×× Success | 3×× Redirection | 4×× Client Error | 5×× Server Error
 ---------------------- | ----------- | --------------- | ---------------- | ----------------
-    100 Continue  |     200 OK |     300 Multiple Choices |     400 Bad Request |     500 Internal Server Error
-    101 Switching Protocols |     201 Created |     301 Moved Permanently |     401 Unauthorized |     501 Not Implemented
-    102 Processing |     202 Accepted |     302 Found |     402 Payment Required |     502 Bad Gateway
+100 Continue  |     200 OK |     300 Multiple Choices |     400 Bad Request |     500 Internal Server Error
+101 Switching Protocols |     201 Created |     301 Moved Permanently |     401 Unauthorized |     501 Not Implemented
+102 Processing |     202 Accepted |     302 Found |     402 Payment Required |     502 Bad Gateway
  |     203 Non-authoritative Information |     303 See Other |     403 Forbidden |     503 Service Unavailable
  |     204 No Content |     304 Not Modified |     404 Not Found |     504 Gateway Timeout
  |     205 Reset Content |     305 Use Proxy |     405 Method Not Allowed |     505 HTTP Version Not Supported
